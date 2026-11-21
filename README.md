@@ -35,3 +35,12 @@ The glider. Its median was 6 m, compared with 4 m for the dart. The dart set the
 </details>
 
 ![](https://komarev.com/ghpvc/?username=caril007)
+
+[![Ivy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caril007&hide=java,javascript,html,css,limbo&theme=radical&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=caril007&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Ivy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caril007&theme=radical)](https://git.io/streak-stats)
+
