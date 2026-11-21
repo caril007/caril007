@@ -33,3 +33,5 @@ The glider. Its median was 6 m, compared with 4 m for the dart. The dart set the
 [Check the evidence](<https://github.com/caril007/my-first-repo/blob/main/flight-log.md>)
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=caril007)
